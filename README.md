@@ -1,6 +1,8 @@
 # COVID20K2C-Superpixels-Dataset
 
-Banco de imagens de superpixels criado a partir de tomografias computadorizadas para infecção por SARS-CoV-2 (COVID-19).
+Superpixel dataset created from CT scans for SARS-CoV-2 (COVID-19) infection.
+
+![fig-covid](https://github.com/EvertonTetila/COVID20K2C-Superpixels-Dataset/assets/37840161/379ef576-d629-4f66-8fe2-d754ca9e9c27)
 
 # Image acquisition
 
