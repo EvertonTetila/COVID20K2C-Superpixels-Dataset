@@ -1,4 +1,6 @@
-COVID20K2C Superpixels Dataset: Banco de imagens de superpixels criado a partir de tomografias computadorizadas para infecção por SARS-CoV-2 (COVID-19).
+# COVID20K2C-Superpixels-Dataset
+
+Banco de imagens de superpixels criado a partir de tomografias computadorizadas para infecção por SARS-CoV-2 (COVID-19).
 
 Este banco de imagens foi criado a partir de tomografias computadorizadas de tórax de um dataset disponível ao público chamado SARS-COV-2 Ct-Scan Dataset. 
 O dataset de origem contém 1.252 tomografias que são positivas para infecção por SARS-CoV-2 (COVID-19) e 1230 tomografias para pacientes não infectados por 
