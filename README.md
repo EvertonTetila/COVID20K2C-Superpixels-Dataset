@@ -14,11 +14,12 @@ COVID20K2C-Superpixels-Dataset has 20 thousand superpixel images divided into tw
 
 # Dataset download 
 
-Link: http://evertontetila.ws.ufgd.edu.br/Datasets/COVID20K2C.zip
+Link: http://evertontetila.ws.ufgd.edu.br/Datasets/COVID20K2C-Superpixels-Dataset.zip
 
 # Acknowledgements
 
 This dataset was created by the authors and should be cited as follows:
 
 TETILA, E. C.;BRESSEM, K. K.; ASTOLFI, G.; SANT'ANA, D. A.; PACHE, M. C. B.; WIRTI JUNIOR, G.; BARBEDO, J. G. A.; PISTORI, H. System for quantitative diagnosis of COVID-19 associated Pneumonia based on Superpixels with deep learning and chest CT. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 10883-10905, 2023. https://doi.org/10.55905/oelv21n9-022
+
 
